@@ -1,2 +1,2 @@
 # csba
-There are the Vilnius Coding School x Baltic amadeus academy projects
+There are Vilnius Coding School x Baltic amadeus academy projects
